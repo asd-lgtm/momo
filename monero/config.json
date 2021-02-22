@@ -60,8 +60,8 @@
         {
             "algo": null,
             "coin": null,
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
+            "url": "xmr.pool.minergate.com:45700",
+            "user": "jhgfdrzfgbhtr5er4fgvbgrfed@yandex.ru",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
